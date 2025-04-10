@@ -1,0 +1,6 @@
+*.png
+/discarded_images/
+/processed_images/
+/resized_images/discarded_images/
+kept_images/
+resized_images/

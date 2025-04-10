@@ -14,6 +14,10 @@ PicSort helps you manage your image files by providing automated sorting and org
 - EXIF metadata extraction and organization
 - Easy-to-use command line interface
 
+## New Feature: Pic Reducer
+
+- Added a new feature to scale down images, reducing their resolution and file size while maintaining quality. This is useful for optimizing storage and sharing images online.
+
 ## Installation
 
 ```bash
